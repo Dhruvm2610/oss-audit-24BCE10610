@@ -1,7 +1,7 @@
 # OSS Audit Project
 
-- **Student Name:** HARSHVARDHAN SINGH JAISAWAT
-- **Roll Number:** 24BCE11064
+- **Student Name:** DHRUV MAHESHWARI
+- **Roll Number:** 24BCE10610
 - **Course:** Open Source Software
 - **Chosen Software:** Git (Distributed Version Control)
 
