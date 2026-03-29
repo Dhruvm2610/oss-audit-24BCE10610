@@ -16,7 +16,7 @@ This report contains five shell scripts developed for the Open Source Software c
 
 # --- Variables ---
 # Fill in your name and chosen software
-STUDENT_NAME="HARSHVARDHAN SINGH JAISAWAT"
+STUDENT_NAME="DHRUV MAHESHWARI"
 SOFTWARE_CHOICE="Git"
 
 # --- System info gathering ---

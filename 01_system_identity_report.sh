@@ -1,9 +1,9 @@
 #!/bin/bash
 # Script 1: System Identity Report
-# Author: Harshvardhan Singh Jaisawat | Course: Open Source Software
+# Author: DHRUV MAHESHWARI | Course: Open Source Software
 
 # --- Student details ---
-STUDENT_NAME="Harshvardhan Singh Jaisawat"
+STUDENT_NAME="Dhruv Maheshwari "
 SOFTWARE_CHOICE="Git"
 
 # --- System info ---
